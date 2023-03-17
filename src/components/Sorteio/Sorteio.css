@@ -1,0 +1,27 @@
+.container{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    width: 100px;
+    background-color: darkgrey;
+    margin: 50px auto;
+}
+
+.container h3 {
+    text-align: center;
+    text-size-adjust: 200px;
+}
+
+button {
+    background-color: crimson;
+    border-radius: 5px;
+    font-family: fantasy;
+}
+
+.par {
+    background-color: green;
+}
+
+.impar {
+    background-color: yellow;
+}

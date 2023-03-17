@@ -1,6 +1,6 @@
+import { Abas } from "./Abas/Abas";
+import { QuestaoQuiz } from "./components/QuestaoQuiz/QuestaoQuiz";
 
-import { Cadastro } from "./components/Cadastro/Cadastro";
-import { ListFruits } from "./components/ListFruits/ListFruits";
 
 export function App() {
   return (
@@ -9,7 +9,9 @@ export function App() {
       {/* <Quadrado /> */}
       {/* <Contador /> */}
       {/* <Cadastro /> */}
-      <ListFruits />
+      {/* <Sorteio /> */}
+      {/* <Abas /> */}
+      <QuestaoQuiz />
     </>
   );
 }

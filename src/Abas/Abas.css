@@ -1,0 +1,7 @@
+button {
+    display: inline-block;
+    justify-content: space-around;
+    margin: 8px 20px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
