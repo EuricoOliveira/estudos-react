@@ -1,5 +1,5 @@
-import { Abas } from "./Abas/Abas";
-import { QuestaoQuiz } from "./components/QuestaoQuiz/QuestaoQuiz";
+import { Calc } from "./components/Calc/Calc";
+
 
 
 export function App() {
@@ -11,7 +11,8 @@ export function App() {
       {/* <Cadastro /> */}
       {/* <Sorteio /> */}
       {/* <Abas /> */}
-      <QuestaoQuiz />
+      {/* <QuestaoQuiz /> */}
+      <Calc />
     </>
   );
 }
