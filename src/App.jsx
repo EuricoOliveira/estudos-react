@@ -1,18 +1,13 @@
-import { Calc } from "./components/Calc/Calc";
+
+import { Dicionario } from "./components/Dicionario/Dicionario";
+
 
 
 
 export function App() {
   return (
     <>
-      {/* <ProductList /> */}
-      {/* <Quadrado /> */}
-      {/* <Contador /> */}
-      {/* <Cadastro /> */}
-      {/* <Sorteio /> */}
-      {/* <Abas /> */}
-      {/* <QuestaoQuiz /> */}
-      <Calc />
+      <Dicionario />
     </>
   );
 }
